@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(56, 60, 61);
+  }
+  
+header{
+    color: lightblue
+    font-size: 50px;
+}
+
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    color: lightgray 
+    font-family: verdana;
+    font-size: 20px;
+  }
