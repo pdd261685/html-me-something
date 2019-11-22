@@ -1,7 +1,7 @@
 body {
     background-color: rgb(56, 60, 61);
-    background-image: url("https://tse3.mm.bing.net/th?id=OIP.yBkflBVjCUkjw_gL3SrhtQHaDj&pid=Api&P=0&w=355&h=171");
-    /* background-image: url("https://images2.alphacoders.com/183/183610.jpg"); */
+    background-image: url("./images/background.jpg");
+    
     background-repeat: no-repeat;
     background-size: 2000px 5000px;
     color: whitesmoke
@@ -55,4 +55,12 @@ header{
   footer{
     color: lightblue;
     font-size: 15px;
+}
+
+#t-color{
+  color:grey
+}
+
+#d-color{
+  color:lightskyblue
 }
